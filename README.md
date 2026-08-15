@@ -1,4 +1,4 @@
-Geometry Modeling Assignment
+Geometry Modeling Assignment 
 This assignment implements Java Point and Triangle classes to demonstrate fundamental OOP concepts.
 
 Concepts Covered
